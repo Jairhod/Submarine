@@ -1,0 +1,23 @@
+* {
+	background-color: lightblue;
+	
+
+}
+
+div.fond {
+	width: 960px;
+	height: 1024px;
+	margin: auto;
+	}
+
+.fond {
+	background-image: url("../img/iceberg.jpg");
+	background-repeat: no-repeat;
+	display: none;
+	}
+
+.fond2 {
+	background-image: url("../img/iceberg complet.jpg");
+	background-repeat: no-repeat;
+}
+
