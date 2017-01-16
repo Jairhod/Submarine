@@ -23,16 +23,42 @@ main {
 #devfront {
 	position: absolute;
 	top:10px;
-	left:235px;
+	left:238px;
 	/* display: none; */
 }
 
 #html5{
 	position: absolute;
-	top:290px;
+	top:289px;
 	left:570px;
 	/* display: none; */
 }
 
+#css3{
+	position: absolute;
+	top:293px;
+	left:645px;
+	/* display: none; */
+}
 
 
+#javascript {
+	position: absolute;
+	top:293px;
+	left:710px;
+	/* display: none; */
+}
+
+#dev-back {
+	position: absolute;
+	top: 795px;
+	left:5px;
+	/* display: none; */
+}
+
+#php {
+	position: absolute;
+	top: 555px;
+	left:318px;
+	/* display: none; */
+}
