@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-* {
-	background-color: lightblue;
-	
-
-}
-
-div.fond {
-	width: 960px;
-	height: 1024px;
-	margin: auto;
-	}
-
-.fond {
-	background-image: url("../img/iceberg.jpg");
-	background-repeat: no-repeat;
-	display: none;
-	}
-
-.fond2 {
-	background-image: url("../img/iceberg complet.jpg");
-	background-repeat: no-repeat;
-}
-
-=======
 body {
 	background: lightblue;
 }
@@ -49,9 +24,15 @@ main {
 	position: absolute;
 	top:10px;
 	left:235px;
-	display: block;
+	/* display: none; */
+}
+
+#html5{
+	position: absolute;
+	top:290px;
+	left:570px;
+	/* display: none; */
 }
 
 
 
->>>>>>> origin/master
