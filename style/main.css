@@ -24,41 +24,60 @@ main {
 	position: absolute;
 	top:10px;
 	left:238px;
-	/* display: none; */
+   	display: none;
 }
 
 #html5{
 	position: absolute;
 	top:289px;
 	left:570px;
-	/* display: none; */
+	display: none;
+
 }
 
 #css3{
 	position: absolute;
 	top:293px;
 	left:645px;
-	/* display: none; */
-}
+	display: none;
 
+}
 
 #javascript {
 	position: absolute;
 	top:293px;
 	left:710px;
-	/* display: none; */
+	display: none;
+
 }
 
 #dev-back {
 	position: absolute;
 	top: 795px;
 	left:5px;
-	/* display: none; */
+	display: none;
+
 }
 
 #php {
 	position: absolute;
 	top: 555px;
 	left:318px;
-	/* display: none; */
+	display: none;
+
+}
+
+#mysql {
+	position: absolute;
+	top: 615px;
+	left:360px;
+	display: none;
+}	
+
+#frameworks {
+	position: absolute;
+	top: 720px;
+	left:370px;
+	display: none;
+
 }
