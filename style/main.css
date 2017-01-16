@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
 	background-color: lightblue;
 	
@@ -21,3 +22,36 @@ div.fond {
 	background-repeat: no-repeat;
 }
 
+=======
+body {
+	background: lightblue;
+}
+
+main {
+	background: lightgreen;
+	width: 960px;
+	height: 1024px;
+	margin: 30px auto;
+	padding: 20px; 
+	border: 2px solid navy;
+	border-radius: 20px;
+	box-shadow: 0 0 10px 1px;
+}
+
+.container {
+	position: relative;
+	width: 960px;
+	height: 1024px;
+	background-image: url("../assets/img/iceberg complet.jpg");
+}
+
+#devfront {
+	position: absolute;
+	top:10px;
+	left:235px;
+	display: block;
+}
+
+
+
+>>>>>>> origin/master
