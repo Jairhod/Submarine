@@ -1,28 +1,3 @@
-<<<<<<< HEAD
-* {
-	background-color: lightblue;
-	
-
-}
-
-div.fond {
-	width: 960px;
-	height: 1024px;
-	margin: auto;
-	}
-
-.fond {
-	background-image: url("../img/iceberg.jpg");
-	background-repeat: no-repeat;
-	display: none;
-	}
-
-.fond2 {
-	background-image: url("../img/iceberg complet.jpg");
-	background-repeat: no-repeat;
-}
-
-=======
 body {
 	background: lightblue;
 }
@@ -48,10 +23,61 @@ main {
 #devfront {
 	position: absolute;
 	top:10px;
-	left:235px;
-	display: block;
+	left:238px;
+   	display: none;
 }
 
+#html5{
+	position: absolute;
+	top:289px;
+	left:570px;
+	display: none;
 
+}
 
->>>>>>> origin/master
+#css3{
+	position: absolute;
+	top:293px;
+	left:645px;
+	display: none;
+
+}
+
+#javascript {
+	position: absolute;
+	top:293px;
+	left:710px;
+	display: none;
+
+}
+
+#dev-back {
+	position: absolute;
+	top: 795px;
+	left:5px;
+	display: none;
+
+}
+
+#php {
+	position: absolute;
+	top: 555px;
+	left:318px;
+	display: none;
+
+}
+
+#mysql {
+	position: absolute;
+	top: 615px;
+	left:360px;
+	display: none;
+}	
+
+#frameworks {
+	position: absolute;
+	top: 720px;
+	left:370px;
+	display: none;
+
+}
